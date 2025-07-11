@@ -37,7 +37,9 @@
 
 <h3><b>Preprints </b></h3>
 <ul class="ul1">
-
+ 
+  <li class="title"><span class="title">Effective open image theorem and a Linnik type problem for elliptic curves</span>  (With Tian Wang) . (2025)</li>[<a href="https://arxiv.org/abs/2507.06913" style="text-decoration: none">arXiv</a>]
+ 
  <li class="title"><span class="title">Relative Trace Formula and Uniform Non-vanishing of Central L-values of Hilbert Modular Forms</span>  (With Liyang Yang and Shifan Zhao) . (2024)</li>
    [<a href="https://arxiv.org/abs/2410.09593" style="text-decoration: none">arXiv</a>]
 
